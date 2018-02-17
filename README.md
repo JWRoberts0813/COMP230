@@ -1,4 +1,4 @@
 # COMP230
 COMP230 Project
 
-change
+Hello Professor and fellow students. This is my change, thank you.
